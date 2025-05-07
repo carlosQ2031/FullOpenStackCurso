@@ -1,0 +1,10 @@
+*GENERALES*
+
+- Cuando usas React, todo el contenido que necesita ser renderizado es generalmente definido como componentes de React.
+-El diseño de los componentes de React se escribe principalmente usando JSX.
+
+*PROPS*
+
+-Los componentes de react utilizan props para comunicarse entre sí.
+-Cada componente padre puede enviar información a sus componentes hijos mediante el uso de props.
+-
